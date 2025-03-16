@@ -32,3 +32,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunwoongSim&hide=stars,contribs&show_icons=true)](https://github.com/GeunwoongSim/github-readme-stats)
