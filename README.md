@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ### Experience
 - 동아대학교 SW개발 동아리 CPU : 2016.03 ~ 2019.12  
 - 동아대학교 디스이즈 개발팀 : 2016.10 ~ 2020.09  
-- 동아대학교 정보통신실험실 : 2018.06.01 ~ 2019.05.31  
+- 동아대학교 정보통신실험실 : 2018.06 ~ 2019.05
 2019 한국 소프트웨어공학 학술대회(KCSE 2019) 발표
-- ESTSoft 프론티어 iOS 앱 개발자 부트캠프 1기 : 2025.01 ~ 
+- ESTSoft 프론티어 iOS 앱 개발자 부트캠프 1기 : 2025.01 ~ 2025.06
 
 ### Skill & Tech Stack
 <img src="https://img.shields.io/badge/ios-000000?style=for-the-badge&logo=iOS&logoColor=white"> <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/uikit-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/swiftui-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
